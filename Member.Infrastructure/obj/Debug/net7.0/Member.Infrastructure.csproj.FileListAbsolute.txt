@@ -1,0 +1,17 @@
+/Users/gr1d99/RiderProjects/Member.Domain/Member.Domain/Member.Infrastructure/bin/Debug/net7.0/Member.Infrastructure.deps.json
+/Users/gr1d99/RiderProjects/Member.Domain/Member.Domain/Member.Infrastructure/bin/Debug/net7.0/Member.Infrastructure.dll
+/Users/gr1d99/RiderProjects/Member.Domain/Member.Domain/Member.Infrastructure/bin/Debug/net7.0/Member.Infrastructure.pdb
+/Users/gr1d99/RiderProjects/Member.Domain/Member.Domain/Member.Infrastructure/bin/Debug/net7.0/Member.Application.dll
+/Users/gr1d99/RiderProjects/Member.Domain/Member.Domain/Member.Infrastructure/bin/Debug/net7.0/Member.Domain.dll
+/Users/gr1d99/RiderProjects/Member.Domain/Member.Domain/Member.Infrastructure/bin/Debug/net7.0/Member.Application.pdb
+/Users/gr1d99/RiderProjects/Member.Domain/Member.Domain/Member.Infrastructure/bin/Debug/net7.0/Member.Domain.pdb
+/Users/gr1d99/RiderProjects/Member.Domain/Member.Domain/Member.Infrastructure/obj/Debug/net7.0/Member.Infrastructure.csproj.AssemblyReference.cache
+/Users/gr1d99/RiderProjects/Member.Domain/Member.Domain/Member.Infrastructure/obj/Debug/net7.0/Member.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gr1d99/RiderProjects/Member.Domain/Member.Domain/Member.Infrastructure/obj/Debug/net7.0/Member.Infrastructure.AssemblyInfoInputs.cache
+/Users/gr1d99/RiderProjects/Member.Domain/Member.Domain/Member.Infrastructure/obj/Debug/net7.0/Member.Infrastructure.AssemblyInfo.cs
+/Users/gr1d99/RiderProjects/Member.Domain/Member.Domain/Member.Infrastructure/obj/Debug/net7.0/Member.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/gr1d99/RiderProjects/Member.Domain/Member.Domain/Member.Infrastructure/obj/Debug/net7.0/Member.Infrastructure.csproj.CopyComplete
+/Users/gr1d99/RiderProjects/Member.Domain/Member.Domain/Member.Infrastructure/obj/Debug/net7.0/Member.Infrastructure.dll
+/Users/gr1d99/RiderProjects/Member.Domain/Member.Domain/Member.Infrastructure/obj/Debug/net7.0/refint/Member.Infrastructure.dll
+/Users/gr1d99/RiderProjects/Member.Domain/Member.Domain/Member.Infrastructure/obj/Debug/net7.0/Member.Infrastructure.pdb
+/Users/gr1d99/RiderProjects/Member.Domain/Member.Domain/Member.Infrastructure/obj/Debug/net7.0/ref/Member.Infrastructure.dll
